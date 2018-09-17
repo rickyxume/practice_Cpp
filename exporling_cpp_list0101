@@ -7,7 +7,7 @@
 #include <vector>
 
 //C++探秘书籍代码测试示例list0101.cpp
-//单行标准输入字母然后按字母表排序输出
+//单行标准输入数字或字母然后数字字母排序输出
 
 void read(std::istream& in, std::vector<std::string>& text)
 {
