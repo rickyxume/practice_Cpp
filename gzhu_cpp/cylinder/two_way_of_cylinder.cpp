@@ -11,7 +11,7 @@ using namespace std;
 
 //结构化方法
 //2018-10-1
-//by 许汝超
+//by RickyXu
 
 const double PI = 3.1415926;
 double r, h, v, s;
